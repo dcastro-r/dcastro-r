@@ -43,7 +43,7 @@ Diego</a></h1>
 
 </p>
 
-<h3 align="center"> ## 💻 Lenguajes</h3>
+<h3 align="center">💻 Lenguajes</h3>
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Diego</a></h1>
 
 </div>
 
-<div align="center"> ## 🎨 Front-End </div>
+<h3 align="center">🎨 Front-End </h3>
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Diego</a></h1>
 
 </div>
 
-<div align="center"> ## ⚙️ Back-End y Bases de Datos </div>
+<h3 align="center">⚙️ Back-End y Bases de Datos </h3>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Diego</a></h1>
 
 </div>
 
-<div align="center"> ## 🛠️ Herramientas y Tecnologías </div>
+<h3 align="center">🛠️ Herramientas y Tecnologías </h3>
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Diego</a></h1>
 
 </div>
 
-<div align="center"> ## 🖥️ Sistemas Operativos </div>
+<h3 align="center">🖥️ Sistemas Operativos </h3>
 
 <div align="center">
 
