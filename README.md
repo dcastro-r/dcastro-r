@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Diego</a></h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática, 🇵🇪 apasionado por el Desarrollo de Software &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática, apasionado por el Desarrollo de Software &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -36,40 +32,44 @@ Diego</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/diegocastrro_?igsh=MTE0bzVsb20ydWllcQ%3D%3D&utm_source=qr">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
        <a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/godynotorius">
-      <img src="https://img.icons8.com/doodle/40/000000/discord-logo.png">
-      </a>
+      		<img src="https://img.icons8.com/doodle/40/000000/discord-logo.png"></a>
   </div>
 
 </p>
 
-## 💻 Lenguajes
+<h3 align="center" > 💻 Lenguajes </h3>
+
+<p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎨 Front-End
+<h3 align="center" > 🎨 Front-End </h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## ⚙️ Back-End y Bases de Datos
+<h3 align="center" > ⚙️ Back-End y Bases de Datos </h3>
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Herramientas y Tecnologías
+<h3 align="center" > 🛠️ Herramientas y Tecnologías </h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-## 🖥️ Sistemas Operativos
+<h3 align="center" > 🖥️ Sistemas Operativos </h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</p>
+
