@@ -43,7 +43,7 @@ Diego</a></h1>
 
 </p>
 
-<div align="center"> ## 💻 Lenguajes </div>
+<div align="center">💻 Lenguajes</div>
 
 <div align="center">
 
