@@ -2,6 +2,8 @@
 Diego</a></h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas e Informática, apasionado por el Desarrollo de Software &#127470;&#127475</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
