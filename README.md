@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓 Actualmente curso el 7mo ciclo en la <a href="https://www.utp.edu.pe/" target="blank">Universidad Tecnológica del Perú</a>
+- 🎓 Actualmente curso el octavo 8.º ciclo en la <a href="https://www.utp.edu.pe/" target="blank">Universidad Tecnológica del Perú</a>
 
 - 💻 Interesado en el Desarrollo de Software.
 
